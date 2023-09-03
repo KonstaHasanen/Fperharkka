@@ -8,7 +8,7 @@ Sovellus on tarkoitettu hoidettavien asioiden ylös merkkaamiseen. Se soveltuu o
 
 ## Ulkoiset materiaalit
 
-Harjoitustyössä käytetään pohjana sveltejs/template pohjaa. Frontend perusteet opintojakson tuntimateriaaleja on myös hyödynnetty harjoitustyötä tehdessä. Lisäksi sovelluksen napeissa käytettävät iconit ovat peräisin font awesome kirjasosta.
+Harjoitustyössä käytetään sveltejs/template pohjaa. Harjoitustyö on toteuttutettu hyödyntäen Frontend perusteet opintojakson tuntimateriaaleja. Sovelluksen napeissa käytettävät iconit ovat peräisin font awesome kirjasosta.
 
 Frontend perusteet  
 https://tiko.jamk.fi/~imjar/fronttiper/svelte_1.html  
